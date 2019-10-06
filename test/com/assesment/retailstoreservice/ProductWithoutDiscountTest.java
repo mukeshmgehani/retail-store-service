@@ -5,8 +5,6 @@ package com.assesment.retailstoreservice;
 
 import static org.junit.Assert.assertEquals;
 
-import java.time.LocalDateTime;
-
 import org.junit.Before;
 import org.junit.Test;
 
@@ -16,9 +14,7 @@ import com.assesment.retailstoreservice.model.ProductType;
 import com.assesment.retailstoreservice.model.User;
 import com.assesment.retailstoreservice.model.UserType;
 import com.assesment.retailstoreservice.service.CartService;
-import com.assesment.retailstoreservice.service.DiscountPolicyService;
 import com.assesment.retailstoreservice.serviceimp.CartServiceImpl;
-import com.assesment.retailstoreservice.serviceimp.DiscountPolicyServiceImpl;
 
 
 
